@@ -5,4 +5,4 @@ Se deben crear tres módulos de Python:
 * **pantalla.py**:        este módulo convierte el arreglo en una imagen
 * **interfazGrafica.py**:  este es el módulo principal con la interfaz del usuario. Para usarlo en Replit puede cambiar su nombre por **main.py**
 
-Recomiendo que cada estudiante realice un *fork* de este repositorio, reslice sus modificaciones y luego las integre con las de sus compañeros de grupo.
+Recomiendo que cada estudiante realice un *fork* de este repositorio, realice sus modificaciones y luego las integre con las de sus compañeros de grupo.
