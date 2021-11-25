@@ -5,7 +5,7 @@ from PIL import Image
 from PIL import ImageTk
 #import tabla_funciones
 import pantalla 
-
+ 
 
 
 root = tk.Tk()
