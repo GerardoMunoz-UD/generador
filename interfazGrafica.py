@@ -7,6 +7,7 @@ from PIL import ImageTk
 import pantalla 
 
 ...
+...
 
 
 root = tk.Tk()
